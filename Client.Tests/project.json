@@ -1,0 +1,14 @@
+﻿{
+  "dependencies": {
+    "FluentAssertions": "4.2.2",
+    "NSubstitute": "1.9.2",
+    "refit": "2.4.1",
+    "xunit": "2.1.0"
+  },
+  "frameworks": {
+    "net452": { }
+  },
+  "runtimes": {
+    "win": { }
+  }
+}
